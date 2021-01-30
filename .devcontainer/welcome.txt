@@ -1,0 +1,5 @@
+ChestFrames Dev Container
+-------------------------
+Commands:
+    build - builds the ChestFrames jar and outputs it to the target directory
+
